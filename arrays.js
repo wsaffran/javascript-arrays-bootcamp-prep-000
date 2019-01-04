@@ -21,10 +21,10 @@ function destructivelyAddElementToEndOfArray(array, element) {
   return array
 }
 // Variables
-var array = [1, 2, 3, 4, 5]
-var element = "Hot Sauce"
+//var array = [1, 2, 3, 4, 5]
+//var element = "Hot Sauce"
 // Test Functions
-destructivelyAddElementToBeginningOfArray(array, element)
-addElementToBeginningOfArray(array, element)
+//destructivelyAddElementToBeginningOfArray(array, element)
+//addElementToBeginningOfArray(array, element)
 
 //Accessing an element
